@@ -1,0 +1,16 @@
+				@font-face {
+					font-family: 'zig';
+					src: url('/wp-content/uploads/useanyfont/6868Zig.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/6868Zig.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.zig{font-family: 'zig' !important;}
+
+						h1, h2, h3, h4, h5, h6, .entry-title, body.single-post .entry-title, body.page .entry-title, body.category .entry-title, .widget-title, .site-title, .site-description{
+					font-family: 'zig' !important;
+				}
+						.elementor-nav-menu a, .elementor-button-wrapper a{
+					font-family: 'zig' !important;
+				}
+		
